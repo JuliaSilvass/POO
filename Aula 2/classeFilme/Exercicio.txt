@@ -1,0 +1,19 @@
+Exercícios sobre definição de classes e manipulação de objetos
+
+1) Elabore uma classe Java para representar o modelo de dados de um Filme, a qual deverá possuir
+as seguintes características:
+- conjunto de atributos: título (String), gênero (String), ano (int), duração (int), sinopse (String) e
+preço (double).
+
+2) Escreva uma aplicação em Java denominada appFilme que instancia e define os atributos de três
+objetos do tipo Filme, após mostre uma listagem dos dados de cada filme.
+
+3) Faça uma modificação na aplicação elaborada no exercício anterior para mostrar na tela qual o
+filme mais caro, ao final da listagem.
+
+4) Codifique uma nova classe Java para representar o modelo de dados de um Aluno, a qual deverá
+possuir os seguintes atributos: matrícula (long), nome (String), idade (int), curso (string) e
+mediaGeral (float).
+
+5) Crie uma aplicação Java denominada appTurma que instancie e defina os dados de cinco alunos.
+Ao final, mostre a média da turma.
