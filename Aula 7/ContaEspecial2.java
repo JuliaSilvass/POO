@@ -1,10 +1,10 @@
-public class ContaEspecial extends Conta{
+public class ContaEspecial2 extends Conta{
     
     private float limite;
 
     public ContaEspecial2(){}   
 
-    public ContaEspecial(int numero, Pessoa correntista, float limite){
+    public ContaEspecial2(int numero, Pessoa correntista, float limite){
         this.setNumero(numero);
         this.setCorrentista(correntista);
         this.limite = limite;
